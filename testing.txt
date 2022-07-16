@@ -1,2 +1,3 @@
 Name: Deepika
-Address: Delhi
+Address: Dehradun
+Course: BSC
